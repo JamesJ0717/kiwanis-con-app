@@ -45,7 +45,7 @@ const Header = () => {
             <p>Rochester, NY</p>
           </div>
           <div className="p-4 rounded-2xl border bg-blue-500 text-slate-200">
-            <a href="https://kiwanis-ny.org/dc2022/" target="_blank">
+            <a href="https://kiwanis-ny.org/dc2022/" target="_blank" rel="noreferrer">
               Register Now!
             </a>
           </div>

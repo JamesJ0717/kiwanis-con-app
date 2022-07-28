@@ -30,14 +30,19 @@ const Home: NextPage = () => {
 
           <li className="tall">
             <span>View a video </span>
-            <a className="underline" href="https://www.youtube.com/watch?v=WCXGjzubEkg" target="_blank">
+            <a
+              className="underline"
+              href="https://www.youtube.com/watch?v=WCXGjzubEkg"
+              target="_blank"
+              rel="noreferrer"
+            >
               to learn more about Rochester.
             </a>
           </li>
 
           <li className="tall">
             <span>If you are undecided about making the trip, view a </span>
-            <a className="underline" href="https://youtu.be/jsdQ-7PNKeo" target="_blank">
+            <a className="underline" href="https://youtu.be/jsdQ-7PNKeo" target="_blank" rel="noreferrer">
               video message
             </a>
             <span> from Gov. Jim on why you should attend.</span>
@@ -47,14 +52,14 @@ const Home: NextPage = () => {
         <p className="text-2xl">Convention Registration:</p>
         <blockquote>
           <p>
-            <a className="underline" href="https://kiwanis-ny.org/dc2022/reg1.htm">
+            <a className="underline" href="https://kiwanis-ny.org/dc2022/reg1.htm" target="_blank" rel="noreferrer">
               Registration
             </a>
             <span> (payment options given at end)</span>
           </p>
           <p>
             Some{" "}
-            <a className="underline" href="https://kiwanis-ny.org/dc2022/faq.htm">
+            <a className="underline" href="https://kiwanis-ny.org/dc2022/faq.htm" target="_blank" rel="noreferrer">
               Frequently Asked Questions
             </a>{" "}
             are available if you have questions about this process.
@@ -72,6 +77,8 @@ const Home: NextPage = () => {
             <a
               className="underline"
               href="https://www.kiwanis.org/about/leadership/meet-the-kiwanis-international-board/peter-j-mancuso"
+              target="_blank"
+              rel="noreferrer"
             >
               More information
             </a>{" "}
@@ -84,7 +91,12 @@ const Home: NextPage = () => {
           <p>
             The Convention Journal gives clubs, divisions and individuals the opportunity to honor someone for their
             efforts during the Kiwanis Year. You can{" "}
-            <a className="underline" href="https://kiwanis-ny.org/2122/journaladform.pdf">
+            <a
+              className="underline"
+              href="https://kiwanis-ny.org/2122/journaladform.pdf"
+              target="_blank"
+              rel="noreferrer"
+            >
               download the journal ad form
             </a>{" "}
             (the deadline is July 31)
@@ -98,6 +110,8 @@ const Home: NextPage = () => {
             <a
               className="underline"
               href="https://www.hyatt.com/en-US/group-booking/ROCHE/G-KIWA?src=envision_email_grpreserv_ENG_20220414_GroupBooking_TC000000170A000010937ENG_G-_183591"
+              target="_blank"
+              rel="noreferrer"
             >
               Hotel Reservation Link
             </a>
@@ -107,19 +121,22 @@ const Home: NextPage = () => {
         <p className="text-2xl">Delegate Registration:</p>
         <blockquote>
           <p>
-            Each club is entitled to three delegates at the convention. Forms designating a club's delegates have been
-            sent to club secretaries and presidents and must be submitted no later than Aug. 1.
+            Each club is entitled to three delegates at the convention. Forms designating a club&apos;s delegates have
+            been sent to club secretaries and presidents and must be submitted no later than Aug. 1.
           </p>
         </blockquote>
 
         <p className="text-2xl">Golf Outing:</p>
         <blockquote>
           <p>
-            A Golf Outing will take place on Thursday, Aug. 18, at the Shadow Lake Golf Club, 1850 Five Mile Line Road
+            A Golf Outing will take place on Thursday, Aug. 18, at the{" "}
+            <a className="underline" href="http://maps.apple.com/?daddr=1850+Five+Mile+Line+Road+Penfield+NY">
+              Shadow Lake Golf Club, 1850 Five Mile Line Road
+            </a>{" "}
             in Penfield.
           </p>
           <p>
-            <a className="underline" href="https://kiwanis-ny.org/dc2022/golf.htm">
+            <a className="underline" href="https://kiwanis-ny.org/dc2022/golf.htm" target="_blank" rel="noreferrer">
               More information
             </a>{" "}
             is available.
