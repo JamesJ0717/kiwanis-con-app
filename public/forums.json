@@ -1,0 +1,91 @@
+{
+  "rooms": [
+    {
+      "name": "A",
+      "forums": [
+        {
+          "name": "Keeping your clubs fresh",
+          "description": "Building your new Club & Making your Old Club Shine Like new.",
+          "presenter": "",
+          "time": ""
+        },
+        {
+          "name": "Working Together",
+          "description": "Using PR and Partnerships to attract and retain new members",
+          "presenter": "",
+          "time": ""
+        },
+        {
+          "name": "Fun and easy membership tips",
+          "description": "Grow your club membership month by month person by Person",
+          "presenter": "",
+          "time": ""
+        },
+        {
+          "name": "Governor & First Lady Project",
+          "description": "Partnering with Key Club and Circle K with the Crohn's and Colitis foundation and The Literacy Project",
+          "presenter": "",
+          "time": ""
+        }
+      ]
+    },
+    {
+      "name": "B",
+      "forums": [
+        {
+          "name": "Paper is Dead! Welcome to the Digital Age",
+          "description": "Utilizing the best of Technology while removing the stigma of the electronics",
+          "presenter": "James Johnson",
+          "time": ""
+        },
+        {
+          "name": "The why's protection",
+          "description": "The importance of maintaining safety precautions for everyone",
+          "presenter": "",
+          "time": ""
+        },
+        {
+          "name": "Protecting our Youth",
+          "description": "How to keep your SLP's safe",
+          "presenter": "",
+          "time": ""
+        },
+        {
+          "name": "Making Meetings Fun",
+          "description": "Make your club shine with fun throughout the meeting process",
+          "presenter": "",
+          "time": ""
+        }
+      ]
+    },
+    {
+      "name": "C",
+      "forums": [
+        {
+          "name": "Planned Giving",
+          "description": "Leave a legacy to Kiwanis and truly make a difference in our organization",
+          "presenter": "",
+          "time": ""
+        },
+        {
+          "name": "Children's Fund",
+          "description": "What's new with the Children's Fund",
+          "presenter": "",
+          "time": ""
+        },
+        {
+          "name": "Front Porch Conversation",
+          "description": "Have a carefree Kiwanis conversation with our International Trustee, Chuck Fletcher. Changes with Kiwanis and how we can in the past and make new and exciting changes within our organization in the future.",
+          "presenter": "",
+          "time": ""
+        },
+        {
+          "name": "The Plant Doctor",
+          "description": "From taking care of large institutions to growing a happy garden at home",
+          "presenter": "",
+          "time": ""
+        }
+      ]
+    }
+  ]
+}
