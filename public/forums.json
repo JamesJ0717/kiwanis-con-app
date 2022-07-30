@@ -21,12 +21,6 @@
           "presenter": "",
           "time": ""
         },
-        {
-          "name": "Governor & First Lady Project",
-          "description": "Partnering with Key Club and Circle K with the Crohn's and Colitis foundation and The Literacy Project",
-          "presenter": "",
-          "time": ""
-        }
       ]
     },
     {
@@ -86,6 +80,17 @@
           "time": ""
         }
       ]
-    }
+    },
+    {
+      "name": "D",
+      "forums": [
+        {
+          "name": "Governor & First Lady Project",
+          "description": "Partnering with Key Club and Circle K with the Crohn's and Colitis foundation and The Literacy Project",
+          "presenter": "",
+          "time": ""
+        },
+      ],
+    }  
   ]
 }
