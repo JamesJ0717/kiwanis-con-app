@@ -44,12 +44,6 @@
           "presenter": "",
           "time": ""
         },
-        {
-          "name": "Making Meetings Fun",
-          "description": "Make your club shine with fun throughout the meeting process",
-          "presenter": "",
-          "time": ""
-        }
       ]
     },
     {
@@ -73,12 +67,6 @@
           "presenter": "",
           "time": ""
         },
-        {
-          "name": "The Plant Doctor",
-          "description": "From taking care of large institutions to growing a happy garden at home",
-          "presenter": "",
-          "time": ""
-        }
       ]
     },
     {
@@ -90,6 +78,18 @@
           "presenter": "",
           "time": ""
         },
+        {
+          "name": "Making Meetings Fun",
+          "description": "Make your club shine with fun throughout the meeting process",
+          "presenter": "",
+          "time": ""
+        },
+        {
+          "name": "The Plant Doctor",
+          "description": "From taking care of large institutions to growing a happy garden at home",
+          "presenter": "",
+          "time": ""
+        }
       ],
     }  
   ]
