@@ -3,7 +3,7 @@ import Events from "../../public/events.json";
 
 const EventList = () => {
   return (
-    <div className="text-center">
+    <div className="text-center prose">
       <p className="text-4xl">Schedule</p>
       {Events.map((date) => (
         <div className="py-4" key={date.date}>
@@ -13,7 +13,7 @@ const EventList = () => {
               <div className="list-none text-center">
                 <li className="font-medium text-lg">{event.name}</li>
                 <li>{event.place}</li>
-                <li className="font-thin">{event.time}</li>
+                <li className="font-light">{event.time}</li>
               </div>
             </div>
           ))}

@@ -10,10 +10,10 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="container space-y-4">
+      <main className="container space-y-4 prose">
         <p className="text-2xl">Convention Information:</p>
-        <ul className="space-y-2">
-          <li className="tall">
+        <div className="space-y-2">
+          <p className="tall">
             <span>The convention will be at the </span>
             <span className="font-semibold">
               <a className="underline" href="http://maps.apple.com/?daddr=125+E.+Main+St.,+Rocherster+NY">
@@ -21,14 +21,14 @@ const Home: NextPage = () => {
               </a>
             </span>
             .
-          </li>
-          <li className="tall">
+          </p>
+          <p className="tall">
             You <span className="font-extrabold">must</span> be registered to attend any District functions and to
             receive conference rates.
-          </li>
-          <li className="font-medium"> Registration fees increase July 25.</li>
+          </p>
+          <p className="font-medium"> Registration fees increase July 25.</p>
 
-          <li className="tall">
+          <p className="tall">
             <span>View a video </span>
             <a
               className="underline"
@@ -38,19 +38,19 @@ const Home: NextPage = () => {
             >
               to learn more about Rochester.
             </a>
-          </li>
+          </p>
 
-          <li className="tall">
+          <p className="tall">
             <span>If you are undecided about making the trip, view a </span>
             <a className="underline" href="https://youtu.be/jsdQ-7PNKeo" target="_blank" rel="noreferrer">
               video message
             </a>
             <span> from Gov. Jim on why you should attend.</span>
-          </li>
-        </ul>
+          </p>
+        </div>
 
         <p className="text-2xl">Convention Registration:</p>
-        <blockquote>
+        <>
           <p>
             <a className="underline" href="https://kiwanis-ny.org/dc2022/reg1.htm" target="_blank" rel="noreferrer">
               Registration
@@ -64,10 +64,10 @@ const Home: NextPage = () => {
             </a>{" "}
             are available if you have questions about this process.
           </p>
-        </blockquote>
+        </>
 
         <p className="text-2xl">Convention Honorees:</p>
-        <blockquote>
+        <>
           <p>
             The 2022 Convention Honorees are Kiwanis International President Peter Mancuso and First Lady Karen Mancuso.
             They will be honored for their work this year leading Kiwanis International and for their service
@@ -84,10 +84,10 @@ const Home: NextPage = () => {
             </a>{" "}
             on Peter Mancuso and his Kiwanis career is available on the Kiwanis International web site.
           </p>
-        </blockquote>
+        </>
 
         <p className="text-2xl">Convention Journal:</p>
-        <blockquote>
+        <>
           <p>
             The Convention Journal gives clubs, divisions and individuals the opportunity to honor someone for their
             efforts during the Kiwanis Year. You can{" "}
@@ -101,10 +101,10 @@ const Home: NextPage = () => {
             </a>{" "}
             (the deadline is July 31)
           </p>
-        </blockquote>
+        </>
 
         <p className="text-2xl">Hotel Registration:</p>
-        <blockquote>
+        <>
           <p>Registration for the hotel is online:</p>
           <p>
             <a
@@ -116,18 +116,18 @@ const Home: NextPage = () => {
               Hotel Reservation Link
             </a>
           </p>
-        </blockquote>
+        </>
 
         <p className="text-2xl">Delegate Registration:</p>
-        <blockquote>
+        <>
           <p>
             Each club is entitled to three delegates at the convention. Forms designating a club&apos;s delegates have
             been sent to club secretaries and presidents and must be submitted no later than Aug. 1.
           </p>
-        </blockquote>
+        </>
 
         <p className="text-2xl">Golf Outing:</p>
-        <blockquote>
+        <>
           <p>
             A Golf Outing will take place on Thursday, Aug. 18, at the{" "}
             <a className="underline" href="http://maps.apple.com/?daddr=1850+Five+Mile+Line+Road+Penfield+NY">
@@ -141,10 +141,10 @@ const Home: NextPage = () => {
             </a>{" "}
             is available.
           </p>
-        </blockquote>
+        </>
 
         <p className="text-2xl">Basket Raffle:</p>
-        <blockquote>
+        <>
           <p>
             Once again, we are having a Basket Raffle at the District Convention. This year we will be featuring gift
             cards.
@@ -160,7 +160,7 @@ const Home: NextPage = () => {
             </a>
             .
           </p>
-        </blockquote>
+        </>
       </main>
     </div>
   );

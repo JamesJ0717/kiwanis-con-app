@@ -3,7 +3,7 @@ import Forums from "../../public/forums.json";
 
 const ForumList = () => {
   return (
-    <div className="text-center">
+    <div className="text-center prose">
       <p className="text-4xl">Forums</p>
       {/* <p className="text-2xl font-semibold">Friday, August 19, 2022</p> */}
       {Forums.rooms.map((room) => (
@@ -14,7 +14,7 @@ const ForumList = () => {
               <div className="list-none text-center">
                 <li className="font-bold text-lg">{forum.presenter}</li>
                 <li>{forum.name}</li>
-                <li className="font-thin">{forum.description}</li>
+                <li className="font-light">{forum.description}</li>
                 <li>{forum.time}</li>
               </div>
             </div>
