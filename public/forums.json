@@ -1,96 +1,103 @@
 {
   "rooms": [
     {
-      "name": "A",
+      "time": "9:00-9:50am",
       "forums": [
         {
-          "name": "Keeping your clubs fresh",
-          "description": "Building your new Club & Making your Old Club Shine Like new.",
-          "presenter": "",
-          "time": ""
-        },
-        {
-          "name": "Working Together",
-          "description": "Using PR and Partnerships to attract and retain new members",
-          "presenter": "",
-          "time": ""
-        },
-        {
-          "name": "Fun and easy membership tips",
-          "description": "Grow your club membership month by month person by Person",
-          "presenter": "",
-          "time": ""
-        }
-      ]
-    },
-    {
-      "name": "B",
-      "forums": [
-        {
-          "name": "Paper is Dead! Welcome to the Digital Age",
-          "description": "Utilizing the best of Technology while removing the stigma of the electronics",
-          "presenter": "James Johnson",
-          "time": ""
-        },
-        {
-          "name": "The why's protection",
-          "description": "The importance of maintaining safety precautions for everyone",
-          "presenter": "",
-          "time": ""
-        },
-        {
-          "name": "Protecting our Youth",
-          "description": "How to keep your SLP's safe",
-          "presenter": "",
-          "time": ""
-        }
-      ]
-    },
-    {
-      "name": "C",
-      "forums": [
-        {
-          "name": "Planned Giving",
-          "description": "Leave a legacy to Kiwanis and truly make a difference in our organization",
-          "presenter": "",
-          "time": ""
-        },
-        {
-          "name": "Children's Fund",
-          "description": "What's new with the Children's Fund",
-          "presenter": "",
-          "time": ""
-        },
-        {
-          "name": "Front Porch Conversation",
-          "description": "Have a carefree Kiwanis conversation with our International Trustee, Chuck Fletcher. Changes with Kiwanis and how we can in the past and make new and exciting changes within our organization in the future.",
-          "presenter": "",
-          "time": ""
-        }
-      ]
-    },
-    {
-      "name": "D",
-      "forums": [
-        {
-          "name": "Governor & First Lady Project",
-          "description": "Partnering with Key Club and Circle K with the Crohn's and Colitis foundation and The Literacy Project",
-          "presenter": "",
-          "time": ""
-        },
-        {
-          "name": "Making Meetings Fun",
-          "description": "Make your club shine with fun throughout the meeting process",
-          "presenter": "",
-          "time": ""
+          "name": "Must-Knows of Youth Protection",
+          "description": "How through background checks, you can protect our children and your privacy at the same time",
+          "presenter": "PG David Booker",
+          "time": "9:00-9:50am",
+          "room": "Regency A"
         },
         {
           "name": "The Plant Doctor",
           "description": "From taking care of large institutions to growing a happy garden at home",
-          "presenter": "",
-          "time": ""
+          "presenter": "LTG-D Lanette Bowman",
+          "time": "9:00-9:50am",
+          "room": "Regency B"
+        },
+        {
+          "name": "Working Together",
+          "description": "Using PR and Partnerships to attract and retain new members",
+          "presenter": "KI Area Director Vickie Hermansen",
+          "time": "9:00-9:50am",
+          "room": "Regency C"
+        },
+        {
+          "name": "Keeping your clubs fresh",
+          "description": "Building your new Club & Making your Old Club Shine Like new.",
+          "presenter": "SDLTG Steve Klein",
+          "time": "9:00-9:50am",
+          "room": "Susan B Anthony"
         }
       ]
-    }  
+    },
+    {
+      "time": "10:00-10:50am",
+      "forums": [
+        {
+          "name": "Planned Giving",
+          "description": "Leave a legacy to Kiwanis and truly make a difference in our organization",
+          "presenter": "DGP Joe Eppolito",
+          "time": "10:00-10:50am",
+          "room": "Regency A"
+        },
+        {
+          "name": "Children's Fund",
+          "description": "What's new with the Children's Fund",
+          "presenter": "LTG Kimberly Davis",
+          "time": "10:00-10:50am",
+          "room": "Regency B"
+        },
+        {
+          "name": "Governor & First Lady Project",
+          "description": "Partnering with Key Club and Circle K with the Crohn's and Colitis foundation and The Literacy Project",
+          "presenter": "Gov. Elect Joel Harris and First Lady Elect Helene Harris",
+          "time": "10:00-10:50am",
+          "room": "Regency C"
+        },
+        {
+          "name": "Making Meetings Fun",
+          "description": "Make your club shine with fun throughout the meeting process",
+          "presenter": "PP Steve Hansen and DPLTG Kerrie Hansen",
+          "time": "10:00-10:50am",
+          "room": "Susan B Anthony"
+        }
+      ]
+    },
+    {
+      "time": "11:00-11:50am",
+      "forums": [
+        {
+          "name": "Risk Management",
+          "description": "The importance of maintaning safety precautiions for everyone",
+          "presenter": "PLG Roger Eltringham",
+          "time": "11:00-11:50am",
+          "room": "Regency A"
+        },
+        {
+          "name": "Front Porch Conversation",
+          "description": "Have a carefree Kiwanis conversation with our International Trustee, Chuck Fletcher. Changes with Kiwanis and how we can in the past and make new and exciting changes within our organization in the future.",
+          "presenter": "KI Trustee Chuck Fletcher",
+          "time": "11:00-11:50am",
+          "room": "Regency B"
+        },
+        {
+          "name": "Fun and easy membership tips",
+          "description": "Grow your club membership month by month person by Person",
+          "presenter": "KI Area Director Vickie Hermansen and DC Thomas Cesiro",
+          "time": "11:00-11:50am",
+          "room": "Regency C"
+        },
+        {
+          "name": "Paper is Dead! Welcome to the Digital Age",
+          "description": "Utilizing the best of Technology while removing the stigma of the electronics",
+          "presenter": "James Johnson",
+          "time": "11:00-11:50am",
+          "room": "Susan B Anthony"
+        }
+      ]
+    }
   ]
 }

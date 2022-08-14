@@ -3,8 +3,8 @@
     "date": "Thursday, August 18, 2022",
     "events": [
       { "name": "District Golf Outing", "time": "8a.m.", "place": "Shadow Lake Golf Club" },
-      { "name": "2021-22 Board Meeting", "time": "2-6p.m.", "place": "" },
-      { "name": "Registration, Credentials", "time": "2-6p.m." },
+      { "name": "2021-22 Board Meeting", "time": "2-6p.m.", "place": "Regency Ballroom" },
+      { "name": "Registration, Credentials", "time": "2-6p.m.", "place": "Grand Foyer" },
       { "name": "2021-22 Board Dinner (by invitation only)", "time": "7:30-9p.m.", "place": "" },
       { "name": "Past Governors' Dinner (by invitation only)", "time": "7:30p.m.", "place": "" }
     ]
@@ -12,42 +12,54 @@
   {
     "date": "Friday, August 19, 2022",
     "events": [
-      { "name": "Past Governors Breakfast & Council (Ticketed Event)", "time": "7:30-9a.m.", "place": "" },
-      { "name": "Registration, Credentials", "time": "8:30a.m.-5p.m." },
-      { "name": "Exhibits and Baskets", "time": "8:30a.m.-5p.m.", "place": "" },
-      { "name": "Dale Carnegie Leadership Forum (Open to All)", "time": "9-10:30a.m.", "place": "" },
-      { "name": "Veteran's Luncheon (Ticketed Event)", "time": "11a.m.-12:30p.m.", "place": "" },
-      { "name": "District Foundation Annual Meeting and Elections", "time": "1-4p.m.", "place": "" },
-      { "name": "Special Welcome Reception for First Timers/New Members", "time": "4-4:30p.m.", "place": "" },
-      { "name": "Member Reception", "time": "4:30-5:30p.m.", "place": "" },
+      {
+        "name": "Past Governors Breakfast & Council (Ticketed Event)",
+        "time": "7:30-9a.m.",
+        "place": "Grand Ballroom EFG"
+      },
+      { "name": "Registration, Credentials", "time": "8:30a.m.-5p.m.", "place": "Grand Foyer" },
+      { "name": "Exhibits and Baskets", "time": "8:30a.m.-5p.m.", "place": "Grand Foyer" },
+      { "name": "Dale Carnegie Leadership Forum (Open to All)", "time": "9-10:30a.m.", "place": "Regency Ballroom" },
+      { "name": "Veteran's Luncheon (Ticketed Event)", "time": "11a.m.-12:30p.m.", "place": "Grand Ballroom EFG" },
+      { "name": "District Foundation Annual Meeting and Elections", "time": "1-4p.m.", "place": "Grand Ballroom ABCD" },
+      {
+        "name": "Special Welcome Reception for First Timers/New Members",
+        "time": "4-4:30p.m.",
+        "place": "Center City"
+      },
+      { "name": "Member Reception", "time": "4:30-5:30p.m.", "place": "Center City" },
       { "name": "Past Governors' Boards Reunion Dinners", "time": "5:30-7:30p.m.", "place": "" },
-      { "name": "Opening Session", "time": "8-10p.m.", "place": "" },
+      { "name": "Opening Session", "time": "8-10p.m.", "place": "Grand Ballroom ABCD" },
       { "name": "Hospitality Rooms", "time": "10p.m.", "place": "" }
     ]
   },
   {
     "date": "Saturday, August 20, 2022",
     "events": [
-      { "name": "Foundations Recognition Breakfast (Ticketed Event)", "time": "7:30-8:30a.m.", "place": "" },
-      { "name": "Registration, Credentials", "time": "8:30a.m.-Noon" },
-      { "name": "Exhibits and Baskets", "time": "8:30-5p.m.", "place": "" },
+      {
+        "name": "Foundations Recognition Breakfast (Ticketed Event)",
+        "time": "7:30-8:30a.m.",
+        "place": "Grand Ballroom ABCD"
+      },
+      { "name": "Registration, Credentials", "time": "8:30a.m.-Noon", "place": "Grand Foyer" },
+      { "name": "Exhibits and Baskets", "time": "8:30-5p.m.", "place": "Grand Foyer" },
       { "name": "Forums TBA", "time": "9a.m.-12:30p.m.", "place": "Various" },
-      { "name": "Gov.-Elect Candidates 'Q&A", "time": "Noon-12:30p.m.", "place": "" },
+      { "name": "Gov.-Elect Candidates 'Q&A", "time": "Noon-12:30p.m.", "place": "Grand Ballroom ABCD" },
       { "name": "Lunch on Your Own" },
       { "name": "Division Caucuses", "time": "12:30-2p.m.", "place": "Check with your Lt. Gov." },
-      { "name": "House of Delegates", "time": "2:30-4:30p.m.", "place": "" },
-      { "name": "Gala Governor's Reception (with Dinner Ticket)", "time": "6-7p.m.", "place": "" },
-      { "name": "Governor's Toast (by invitation)", "time": "6:45p.m.", "place": "" },
-      { "name": "Governor's Celebration Dinner (Ticketed Event)", "time": "7p.m.", "place": "" },
+      { "name": "House of Delegates", "time": "2:30-4:30p.m.", "place": "Grand Ballroom ABCD" },
+      { "name": "Gala Governor's Reception (with Dinner Ticket)", "time": "6-7p.m.", "place": "Foyer" },
+      { "name": "Governor's Toast (by invitation)", "time": "6:45p.m.", "place": "Grand Ballroom EFG" },
+      { "name": "Governor's Celebration Dinner (Ticketed Event)", "time": "7p.m.", "place": "Grand Ballroom ABCD" },
       { "name": "Hospitality Rooms", "time": "10p.m.", "place": "" }
     ]
   },
   {
     "date": "Sunday, August 21, 2022",
     "events": [
-      { "name": "Memorial Breakfast (Ticketed Event)", "time": "8-9:30a.m.", "place": "" },
-      { "name": "Installation of Officers", "time": "10-11:30a.m.", "place": "" },
-      { "name": "2022-23 Board Luncheon (By Invitation Only)", "time": "Noon-2p.m.," }
+      { "name": "Memorial Breakfast (Ticketed Event)", "time": "8-9:30a.m.", "place": "Grand Ballroom EFG" },
+      { "name": "Installation of Officers", "time": "10-11:30a.m.", "place": "Grand Ballroom ABCD" },
+      { "name": "2022-23 Board Luncheon (By Invitation Only)", "time": "Noon-2p.m.,", "place": "Grand Ballroom EFG" }
     ]
   }
 ]
