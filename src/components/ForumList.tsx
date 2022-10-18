@@ -5,7 +5,6 @@ const ForumList = () => {
   return (
     <div className="text-center prose">
       <p className="text-4xl">Forums</p>
-      {/* <p className="text-2xl font-semibold">Friday, August 19, 2022</p> */}
       {Forums.rooms.map((room) => (
         <div className="py-2" key={room.time}>
           <div className="text-2xl font-semibold">{room.time}</div>
